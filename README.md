@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @siddique-anw
+- 👋 Hi, I’m Sudheer.Baditha
 - 👀 I’m interested in :software developement
 - 🌱 I’m currently learning :python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :siddique0931@gmail.com
+- 📫 How to reach me :sudheerbaditha0931@appnetwisw
 - 😄 Pronouns: he/him
 
 
